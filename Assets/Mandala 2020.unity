@@ -10964,7 +10964,6 @@ GameObject:
   - component: {fileID: 590197267}
   - component: {fileID: 590197266}
   - component: {fileID: 590197269}
-  - component: {fileID: 590197268}
   m_Layer: 0
   m_Name: Left Mandala Torus
   m_TagString: Untagged
@@ -11035,25 +11034,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 590197264}
   m_Mesh: {fileID: -2432090755550338912, guid: f363d392516f8f646a7c39f3731e2cd6, type: 3}
---- !u!95 &590197268
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 590197264}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fb396e14635a4394e94b7af4e25928bf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &590197269
 Animation:
   m_ObjectHideFlags: 0
@@ -13619,7 +13599,6 @@ GameObject:
   - component: {fileID: 693938046}
   - component: {fileID: 693938045}
   - component: {fileID: 693938048}
-  - component: {fileID: 693938047}
   m_Layer: 0
   m_Name: Right Mandala Torus
   m_TagString: Untagged
@@ -13690,25 +13669,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 693938043}
   m_Mesh: {fileID: -2432090755550338912, guid: f363d392516f8f646a7c39f3731e2cd6, type: 3}
---- !u!95 &693938047
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 693938043}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fb396e14635a4394e94b7af4e25928bf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &693938048
 Animation:
   m_ObjectHideFlags: 0
@@ -19551,7 +19511,6 @@ GameObject:
   - component: {fileID: 982877291}
   - component: {fileID: 982877293}
   - component: {fileID: 982877292}
-  - component: {fileID: 982877295}
   - component: {fileID: 982877294}
   m_Layer: 0
   m_Name: Right Mandala
@@ -19640,25 +19599,6 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
---- !u!95 &982877295
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 982877290}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fb396e14635a4394e94b7af4e25928bf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &984115168
 GameObject:
   m_ObjectHideFlags: 0
@@ -20526,7 +20466,6 @@ GameObject:
   - component: {fileID: 1046709251}
   - component: {fileID: 1046709250}
   - component: {fileID: 1046709253}
-  - component: {fileID: 1046709252}
   m_Layer: 0
   m_Name: Right Green
   m_TagString: Untagged
@@ -20597,25 +20536,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1046709248}
   m_Mesh: {fileID: -2432090755550338912, guid: 85530949951d797448c6ece2547aad44, type: 3}
---- !u!95 &1046709252
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1046709248}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e85266087502a984c87603a104a98ac0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &1046709253
 Animation:
   m_ObjectHideFlags: 0
@@ -23685,7 +23605,6 @@ GameObject:
   - component: {fileID: 1174301608}
   - component: {fileID: 1174301607}
   - component: {fileID: 1174301610}
-  - component: {fileID: 1174301609}
   m_Layer: 0
   m_Name: Right Red
   m_TagString: Untagged
@@ -23756,25 +23675,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1174301605}
   m_Mesh: {fileID: -2432090755550338912, guid: 85530949951d797448c6ece2547aad44, type: 3}
---- !u!95 &1174301609
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1174301605}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e85266087502a984c87603a104a98ac0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &1174301610
 Animation:
   m_ObjectHideFlags: 0
@@ -24660,7 +24560,6 @@ GameObject:
   - component: {fileID: 1231534416}
   - component: {fileID: 1231534415}
   - component: {fileID: 1231534418}
-  - component: {fileID: 1231534417}
   m_Layer: 0
   m_Name: Left Green
   m_TagString: Untagged
@@ -24731,25 +24630,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1231534413}
   m_Mesh: {fileID: -2432090755550338912, guid: 85530949951d797448c6ece2547aad44, type: 3}
---- !u!95 &1231534417
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1231534413}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e85266087502a984c87603a104a98ac0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &1231534418
 Animation:
   m_ObjectHideFlags: 0
@@ -36039,7 +35919,6 @@ GameObject:
   - component: {fileID: 1749692955}
   - component: {fileID: 1749692957}
   - component: {fileID: 1749692956}
-  - component: {fileID: 1749692959}
   - component: {fileID: 1749692958}
   m_Layer: 0
   m_Name: Left Mandala
@@ -36128,25 +36007,6 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
---- !u!95 &1749692959
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1749692954}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fb396e14635a4394e94b7af4e25928bf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1752868138
 GameObject:
   m_ObjectHideFlags: 0
@@ -43033,7 +42893,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2083641252}
-  - component: {fileID: 2083641254}
   - component: {fileID: 2083641253}
   m_Layer: 0
   m_Name: Basket
@@ -43078,25 +42937,6 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
---- !u!95 &2083641254
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2083641251}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e60d62c0f35bf094e9b54399dac4fe69, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2089553012
 GameObject:
   m_ObjectHideFlags: 0
@@ -45233,7 +45073,6 @@ GameObject:
   - component: {fileID: 7390560564868884552}
   - component: {fileID: 6320012131037482204}
   - component: {fileID: 3526753431500423739}
-  - component: {fileID: 3526753431500423738}
   m_Layer: 0
   m_Name: Center Mandala Torus
   m_TagString: Untagged
@@ -45241,25 +45080,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &3526753431500423738
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3526753431500423737}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fb396e14635a4394e94b7af4e25928bf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &3526753431500423739
 Animation:
   m_ObjectHideFlags: 0
@@ -45344,7 +45164,6 @@ GameObject:
   - component: {fileID: 5503336866659463425}
   - component: {fileID: 7244296069590173771}
   - component: {fileID: 6173681673025973471}
-  - component: {fileID: 3668719310942134843}
   - component: {fileID: 3668719310942134844}
   m_Layer: 0
   m_Name: Center Mandala
@@ -45353,25 +45172,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &3668719310942134843
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3668719310942134842}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fb396e14635a4394e94b7af4e25928bf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &3668719310942134844
 Animation:
   m_ObjectHideFlags: 0
@@ -45614,7 +45414,6 @@ GameObject:
   - component: {fileID: 7983088094179823083}
   - component: {fileID: 6911928606220233087}
   - component: {fileID: 4082689471261255580}
-  - component: {fileID: 4082689471261255579}
   m_Layer: 0
   m_Name: Left Red
   m_TagString: Untagged
@@ -45622,25 +45421,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &4082689471261255579
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4082689471261255578}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e85266087502a984c87603a104a98ac0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!111 &4082689471261255580
 Animation:
   m_ObjectHideFlags: 0
