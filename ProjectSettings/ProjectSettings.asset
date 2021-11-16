@@ -594,6 +594,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     1: UNITY_CCU
+    7: UNITY_CCU
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
