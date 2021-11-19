@@ -15,12 +15,12 @@ C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53535
+63029
 Successfully changed project path to: C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021
 C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 73.19 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.89 ms.
+Refreshing native plugins compatible for Editor in 72.39 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 1.48 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021/Assets
@@ -35,49 +35,49 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001683 seconds.
+Registered in 0.001687 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 64.71 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.07 ms.
+Refreshing native plugins compatible for Editor in 82.99 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.22 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.868 seconds
+- Completed reload, in  0.882 seconds
 Domain Reload Profiling:
-	ReloadAssembly (868ms)
-		BeginReloadAssembly (43ms)
+	ReloadAssembly (882ms)
+		BeginReloadAssembly (44ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (364ms)
-			LoadAssemblies (41ms)
+		EndReloadAssembly (385ms)
+			LoadAssemblies (42ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (119ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (164ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (182ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (65ms)
+				RefreshPlugins (83ms)
 				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (65ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
+				ProcessInitializeOnLoadAttributes (66ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003900 seconds.
+Registered in 0.009444 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 65.91 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.10 ms.
+Refreshing native plugins compatible for Editor in 74.61 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.23 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
@@ -98,29 +98,29 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.306 seconds
+- Completed reload, in  1.401 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1306ms)
-		BeginReloadAssembly (123ms)
+	ReloadAssembly (1402ms)
+		BeginReloadAssembly (121ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (1129ms)
-			LoadAssemblies (78ms)
+		EndReloadAssembly (1226ms)
+			LoadAssemblies (83ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (266ms)
+			SetupTypeCache (314ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (623ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (665ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (66ms)
-				BeforeProcessingInitializeOnLoad (83ms)
-				ProcessInitializeOnLoadAttributes (453ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				RefreshPlugins (75ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (478ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -128,15 +128,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.79 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.08 ms.
-Unloading 3314 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 168.4 MB.
-System memory in use after: 168.5 MB.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.23 ms.
+Unloading 3383 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.3 MB.
+System memory in use after: 174.4 MB.
 
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 3790.
-Total: 3.458400 ms (FindLiveObjects: 0.422100 ms CreateObjectMapping: 0.158700 ms MarkObjects: 2.730500 ms  DeleteObjects: 0.146000 ms)
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 3.308100 ms (FindLiveObjects: 0.308400 ms CreateObjectMapping: 0.084400 ms MarkObjects: 2.763500 ms  DeleteObjects: 0.150800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -150,384 +150,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Metallic.png
-  artifactKey: Guid(3314127896db60c49ac5e386d6d25c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Metallic.png using Guid(3314127896db60c49ac5e386d6d25c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baef55837338cff46274250084b924fd') in 0.071020 seconds 
-  Import took 0.076178 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
   path: Assets/Jonathan Foust/Materials/FlowerVase_Normal.png
   artifactKey: Guid(4f1c12ba01d762944b83bada30a6763b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/FlowerVase_Normal.png using Guid(4f1c12ba01d762944b83bada30a6763b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f31654fe503fbd3e26c863ed3a41e7f') in 0.016283 seconds 
-  Import took 0.020849 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Materials/FlowerVase_Albedo.mat
-  artifactKey: Guid(5a6b628aae3ba594e95c2587611523af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Materials/FlowerVase_Albedo.mat using Guid(5a6b628aae3ba594e95c2587611523af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebc77f1041b7f60ba1201cbc89fd6e4') in 0.050457 seconds 
-  Import took 0.054882 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Materials/Material_Vase.mat
-  artifactKey: Guid(24bc799cc2797514499035728235055e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Materials/Material_Vase.mat using Guid(24bc799cc2797514499035728235055e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '145ffb393a0b042655b4934d6be9193b') in 0.015361 seconds 
-  Import took 0.019720 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseB.prefab
-  artifactKey: Guid(e552b2f7634ec0045a53e296378ed157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseB.prefab using Guid(e552b2f7634ec0045a53e296378ed157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e1dc3a80bdb89af1039f5c51ef21412') in 0.026256 seconds 
-  Import took 0.030694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Jonathan Foust/Materials/FlowerVase_Albedo.png
-  artifactKey: Guid(da445ff571f23244ba96344397c307a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/FlowerVase_Albedo.png using Guid(da445ff571f23244ba96344397c307a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd90e28e634219503cf1252dd943a69c') in 0.009600 seconds 
-  Import took 0.014530 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_AO.png
-  artifactKey: Guid(80aafff3a6ed5c542aa2653ec814873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_AO.png using Guid(80aafff3a6ed5c542aa2653ec814873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4249614425ec1d21495ab7d03206a9a8') in 0.010770 seconds 
-  Import took 0.015036 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/Jonathan Foust/Materials/FlowerVase_Albedo.png
-  artifactKey: Guid(da445ff571f23244ba96344397c307a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/FlowerVase_Albedo.png using Guid(da445ff571f23244ba96344397c307a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd90e28e634219503cf1252dd943a69c') in 0.009532 seconds 
-  Import took 0.014304 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Albedo.png
-  artifactKey: Guid(13623eb2fa70f944f8cdbdfad1b7a086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Albedo.png using Guid(13623eb2fa70f944f8cdbdfad1b7a086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825499807efb3278e0754a9f57a3e51a') in 0.009245 seconds 
-  Import took 0.014665 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Models/Vase.fbx
-  artifactKey: Guid(135e668954aa8434399b52e0a1d510d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Models/Vase.fbx using Guid(135e668954aa8434399b52e0a1d510d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b88eb0200398fb7b6cdfc126be6040') in 0.067960 seconds 
-  Import took 0.072696 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Roughness.png
-  artifactKey: Guid(657bd3981bed8394d93916a6b2696c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Roughness.png using Guid(657bd3981bed8394d93916a6b2696c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80985f0032387101862863f18875f228') in 0.012438 seconds 
-  Import took 0.017412 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseC.prefab
-  artifactKey: Guid(df039b09bb35a5a4db6edf76716483a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseC.prefab using Guid(df039b09bb35a5a4db6edf76716483a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e1f575efc836d0bb5625b857825b59') in 0.013306 seconds 
-  Import took 0.018317 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseA.prefab
-  artifactKey: Guid(2ad000dab9a13804d93c8fcee761f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseA.prefab using Guid(2ad000dab9a13804d93c8fcee761f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afae651f6be07d89cd7bbe4ec52aafcd') in 0.013735 seconds 
-  Import took 0.018421 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Normal.png
-  artifactKey: Guid(3977035129fc454479884e73d97891c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Normal.png using Guid(3977035129fc454479884e73d97891c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c79786da88e8267b4a55e84d185ac6') in 0.011755 seconds 
-  Import took 0.016413 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011926 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.95 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.86 ms.
-System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\sigge\Mandala-Festiva-2021-main\Mandala-Festiva-2021\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:250 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\sigge\Mandala-Festiva-2021-main\Mandala-Festiva-2021\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:235 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
-   --- End of inner exception stack trace ---
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x00047] in <5ad584e208e14caaa9e6b2e6027e9204>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.222 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1222ms)
-		BeginReloadAssembly (115ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (1051ms)
-			LoadAssemblies (82ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (294ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (40ms)
-			SetupLoadedEditorAssemblies (547ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (454ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.96 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.24 ms.
-Unloading 3247 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.2 MB.
-System memory in use after: 165.3 MB.
-
-Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3897.
-Total: 3.638200 ms (FindLiveObjects: 0.307700 ms CreateObjectMapping: 0.086300 ms MarkObjects: 3.070400 ms  DeleteObjects: 0.172600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 588.155649 seconds.
-  path: Assets/64731376-close-up-of-a-straw-bales-background-straw-bale-texture-.jpg
-  artifactKey: Guid(0df0180c6359c8e419b58ce264cfaf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/64731376-close-up-of-a-straw-bales-background-straw-bale-texture-.jpg using Guid(0df0180c6359c8e419b58ce264cfaf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b4da118ff499c0f4b64406d3bd45c6') in 0.043259 seconds 
-  Import took 0.049243 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/gardens.JPG
-  artifactKey: Guid(7090ad2caa0d7a442ad1e136ba48c26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gardens.JPG using Guid(7090ad2caa0d7a442ad1e136ba48c26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf5e0f7b54d5241d52b82b0aa732c17') in 0.013385 seconds 
-  Import took 0.017966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/New Terrain 2.asset
-  artifactKey: Guid(1657452702a20bf448f4a20086c1b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(1657452702a20bf448f4a20086c1b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5931842318106d5675dd25e78306f1c1') in 0.058054 seconds 
-  Import took 0.063482 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Fuji San.png
-  artifactKey: Guid(80420377ff280d443aa264e678a0368a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fuji San.png using Guid(80420377ff280d443aa264e678a0368a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd787666cb9d57b4fef6b014a93d242e1') in 0.011252 seconds 
-  Import took 0.015735 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/fujisan.blend
-  artifactKey: Guid(6f15c1b2d50ef2a4b9db0f3cff88486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fujisan.blend using Guid(6f15c1b2d50ef2a4b9db0f3cff88486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b845278bf5aac1452bac0c02d9031adc') in 0.160729 seconds 
-  Import took 0.165117 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/depositphotos_36469417-stock-photo-seamless-water-texture.jpg
-  artifactKey: Guid(7f9e2e73e2850804c8ce5d903d1f55f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/depositphotos_36469417-stock-photo-seamless-water-texture.jpg using Guid(7f9e2e73e2850804c8ce5d903d1f55f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e1f50db49d238f560f21b44c56b082') in 0.011574 seconds 
-  Import took 0.016335 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Grass Text.png
-  artifactKey: Guid(70dbefb50efcc2640a258f4b526fc5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Grass Text.png using Guid(70dbefb50efcc2640a258f4b526fc5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3dfbc0d81838ea3f1dc5a6f52ad1e3') in 0.033381 seconds 
-  Import took 0.037880 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.363902 seconds.
-  path: Assets/New Terrain 2.asset
-  artifactKey: Guid(1657452702a20bf448f4a20086c1b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(1657452702a20bf448f4a20086c1b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f301baa62a31318ede3a2d716d1d0018') in 0.015821 seconds 
-  Import took 0.021166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 477.312729 seconds.
-  path: Assets/Jonathan Foust/Materials/Chinese Evergreen Material.mat
-  artifactKey: Guid(a5aae521a3e203245a64adc9e673190c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/Chinese Evergreen Material.mat using Guid(a5aae521a3e203245a64adc9e673190c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9dbc24ee099f1e1717e4b4759745ac') in 0.015872 seconds 
-  Import took 0.021733 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Materials/Fuji San.mat
-  artifactKey: Guid(5a855d08c549db04fac5bd46c2570983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Fuji San.mat using Guid(5a855d08c549db04fac5bd46c2570983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41733d3988c9fea92e384a03d74b4b9b') in 0.014708 seconds 
-  Import took 0.020330 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Jonathan Foust/Materials/Chinese Evergreen Material.mat
-  artifactKey: Guid(a5aae521a3e203245a64adc9e673190c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/Chinese Evergreen Material.mat using Guid(a5aae521a3e203245a64adc9e673190c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9dbc24ee099f1e1717e4b4759745ac') in 0.012458 seconds 
-  Import took 0.017507 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Materials/Fuji San.mat
-  artifactKey: Guid(5a855d08c549db04fac5bd46c2570983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Fuji San.mat using Guid(5a855d08c549db04fac5bd46c2570983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41733d3988c9fea92e384a03d74b4b9b') in 0.020946 seconds 
-  Import took 0.025757 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.963708 seconds.
-  path: Assets/New Terrain 2.asset
-  artifactKey: Guid(1657452702a20bf448f4a20086c1b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(1657452702a20bf448f4a20086c1b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38630ad55746bc51fce622ed3ac8846a') in 0.015054 seconds 
-  Import took 0.020843 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1108.013538 seconds.
-  path: Assets/Jonathan Foust/Materials/Chinese Evergreen Normal Texture.png
-  artifactKey: Guid(dc5a0797a0fc8cd46b4ba1bff5701761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/Chinese Evergreen Normal Texture.png using Guid(dc5a0797a0fc8cd46b4ba1bff5701761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a271ff52133f087a0ec5b6436e683f24') in 0.013380 seconds 
-  Import took 0.018508 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.549277 seconds.
-  path: Assets/Jonathan Foust/Materials/Chinese Evergreen Texture.png
-  artifactKey: Guid(f135843d61379524f9d2188a655bbec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/Chinese Evergreen Texture.png using Guid(f135843d61379524f9d2188a655bbec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456e22696b4d21192f7938ddd6b6752c') in 0.012907 seconds 
-  Import took 0.017840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 447.223649 seconds.
-  path: Packages/com.unity.render-pipelines.universal/Textures/SMAA/AreaTex.tga
-  artifactKey: Guid(d1f1048909d55cd4fa1126ab998f617e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.universal/Textures/SMAA/AreaTex.tga using Guid(d1f1048909d55cd4fa1126ab998f617e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8293c5b3c2bde17da1259cd1ada55df7') in 0.014699 seconds 
-  Import took 0.019955 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003792 seconds.
-  path: Packages/com.unity.render-pipelines.universal/Textures/SMAA/AreaTex.tga
-  artifactKey: Guid(d1f1048909d55cd4fa1126ab998f617e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.universal/Textures/SMAA/AreaTex.tga using Guid(d1f1048909d55cd4fa1126ab998f617e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8293c5b3c2bde17da1259cd1ada55df7') in 0.006760 seconds 
-  Import took 0.011157 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 254.715331 seconds.
-  path: Assets/Jonathan Foust/Meshes/Rafflesia.fbx
-  artifactKey: Guid(ade0ae58bed068a4b8e2729826ad0487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Meshes/Rafflesia.fbx using Guid(ade0ae58bed068a4b8e2729826ad0487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e1aee08682827c5e141f3a6b840729') in 0.027869 seconds 
-  Import took 0.033683 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 382.162466 seconds.
-  path: Assets/Jonathan Foust
-  artifactKey: Guid(6eb3982d315ba9548b08082a6e356efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust using Guid(6eb3982d315ba9548b08082a6e356efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd357c5823b83d8abc9a906ee8910f132') in 0.005424 seconds 
-  Import took 0.011233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000651 seconds.
-  path: Assets/Jonathan Foust
-  artifactKey: Guid(6eb3982d315ba9548b08082a6e356efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust using Guid(6eb3982d315ba9548b08082a6e356efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd357c5823b83d8abc9a906ee8910f132') in 0.001938 seconds 
-  Import took 0.007023 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.791762 seconds.
-  path: Assets/Jonathan Foust/Materials/FlowerVase_Albedo.png
-  artifactKey: Guid(da445ff571f23244ba96344397c307a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jonathan Foust/Materials/FlowerVase_Albedo.png using Guid(da445ff571f23244ba96344397c307a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968b3d503ba031dfff01b0273fc26019') in 0.013084 seconds 
-  Import took 0.018486 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Metallic.png
-  artifactKey: Guid(3314127896db60c49ac5e386d6d25c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Metallic.png using Guid(3314127896db60c49ac5e386d6d25c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e5ad071619d13800f3a4ffe9ba5cd8') in 0.010625 seconds 
-  Import took 0.015167 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_AO.png
-  artifactKey: Guid(80aafff3a6ed5c542aa2653ec814873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_AO.png using Guid(80aafff3a6ed5c542aa2653ec814873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938af48062cdf06a8218fa278ca53acd') in 0.022357 seconds 
-  Import took 0.027219 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Albedo.png
-  artifactKey: Guid(13623eb2fa70f944f8cdbdfad1b7a086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Albedo.png using Guid(13623eb2fa70f944f8cdbdfad1b7a086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4be93f436805610a21b1e5d6dcd3c35') in 0.017751 seconds 
-  Import took 0.022741 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Normal.png
-  artifactKey: Guid(3977035129fc454479884e73d97891c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monqo Flower Ceramic Vases/Textures/FlowerVase_Normal.png using Guid(3977035129fc454479884e73d97891c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a637e001cd1ba425b8449a1e0aef16e9') in 0.024978 seconds 
-  Import took 0.029941 seconds .
+Start importing Assets/Jonathan Foust/Materials/FlowerVase_Normal.png using Guid(4f1c12ba01d762944b83bada30a6763b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99a356a9717c2900964312904473d4d') in 0.080469 seconds 
+  Import took 0.085570 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
