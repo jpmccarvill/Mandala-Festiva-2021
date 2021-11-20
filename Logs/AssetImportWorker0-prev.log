@@ -1,73 +1,71 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 22504.1000; Version 2009; 64bit' Language: 'en' Physical Memory: 32699 MB
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16313 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/jpmcc/Documents/GitHub/Mandala-Festiva-2021
+C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-43874
-Successfully changed project path to: C:/Users/jpmcc/Documents/GitHub/Mandala-Festiva-2021
-C:/Users/jpmcc/Documents/GitHub/Mandala-Festiva-2021
+57485
+Successfully changed project path to: C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021
+C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 74.69 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 2.06 ms.
+Refreshing native plugins compatible for Editor in 76.53 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.71 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/jpmcc/Documents/GitHub/Mandala-Festiva-2021/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sigge/Mandala-Festiva-2021-main/Mandala-Festiva-2021/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
     Vendor:   
-    VRAM:     8088 MB
-    Driver:   30.0.15.1031
+    VRAM:     5991 MB
+    Driver:   27.21.14.5751
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56392
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001676 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001689 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 67.82 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.22 ms.
+Refreshing native plugins compatible for Editor in 65.72 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.048 seconds
+- Completed reload, in  0.855 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1048ms)
-		BeginReloadAssembly (48ms)
+	ReloadAssembly (855ms)
+		BeginReloadAssembly (43ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (366ms)
-			LoadAssemblies (46ms)
+		EndReloadAssembly (364ms)
+			LoadAssemblies (41ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (120ms)
+			SetupTypeCache (119ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (24ms)
-			SetupLoadedEditorAssemblies (165ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (164ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (68ms)
+				RefreshPlugins (66ms)
 				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (63ms)
+				ProcessInitializeOnLoadAttributes (65ms)
 				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -75,19 +73,18 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010779 seconds.
+Registered in 0.005126 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 70.29 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.22 ms.
+Refreshing native plugins compatible for Editor in 65.95 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
 [XR] Unable to register input lifecyle provider: [1]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\jpmcc\Documents\GitHub\Mandala-Festiva-2021\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:250 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jpmcc\Documents\GitHub\Mandala-Festiva-2021\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:235 
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\sigge\Mandala-Festiva-2021-main\Mandala-Festiva-2021\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:250 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\sigge\Mandala-Festiva-2021-main\Mandala-Festiva-2021\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:235 
   at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
    --- End of inner exception stack trace ---
@@ -101,30 +98,30 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.347 seconds
+- Completed reload, in  1.268 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1348ms)
-		BeginReloadAssembly (124ms)
+	ReloadAssembly (1268ms)
+		BeginReloadAssembly (125ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (1171ms)
-			LoadAssemblies (90ms)
+		EndReloadAssembly (1088ms)
+			LoadAssemblies (81ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (297ms)
+			SetupTypeCache (256ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (630ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (597ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (71ms)
-				BeforeProcessingInitializeOnLoad (77ms)
-				ProcessInitializeOnLoadAttributes (460ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (66ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (430ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
@@ -132,14 +129,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.96 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.24 ms.
-Unloading 3386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 160.9 MB.
-System memory in use after: 161.0 MB.
+Refreshing native plugins compatible for Editor in 0.83 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 3317 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.7 MB.
+System memory in use after: 168.9 MB.
 
-Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 3833.
-Total: 3.547600 ms (FindLiveObjects: 0.366100 ms CreateObjectMapping: 0.107800 ms MarkObjects: 2.902200 ms  DeleteObjects: 0.170400 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3792.
+Total: 3.293500 ms (FindLiveObjects: 0.293800 ms CreateObjectMapping: 0.086100 ms MarkObjects: 2.749300 ms  DeleteObjects: 0.163300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -153,25 +150,328 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/tree.mtl
-  artifactKey: Guid(56ec8e86597b4ae41818f8d277fa0a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tree.mtl using Guid(56ec8e86597b4ae41818f8d277fa0a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2e1da8d84e3a9b0062fd21f9154455') in 0.025963 seconds 
-  Import took 0.030609 seconds .
+  path: Assets/Jonathan Foust/Prefabs/Grass B_3.prefab
+  artifactKey: Guid(edcb2a6ee269d92459e9189a4b29d006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_3.prefab using Guid(edcb2a6ee269d92459e9189a4b29d006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413ca19d7f411408d7274fe7fe31e674') in 0.096024 seconds 
+  Import took 0.101025 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/tree.obj
-  artifactKey: Guid(c8fd2caac9174b842898ac41007afd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tree.obj using Guid(c8fd2caac9174b842898ac41007afd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f751a6575cd66ba4e4c0990ab1c1af36') in 0.199629 seconds 
-  Import took 0.204047 seconds .
+  Time since last request: 0.000200 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Blood Chute_3.prefab
+  artifactKey: Guid(3a4e3158363d42041af987ffcf142017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Blood Chute_3.prefab using Guid(3a4e3158363d42041af987ffcf142017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e5e6ed4308b4c09398d5d8377a5809') in 0.233649 seconds 
+  Import took 0.237950 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 34.304825 seconds.
-  path: Assets/tree.png
-  artifactKey: Guid(13e9d91bc7338314798c9bd6da96df3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tree.png using Guid(13e9d91bc7338314798c9bd6da96df3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4f03835e031dd21113f3c39921370c') in 0.020780 seconds 
-  Import took 0.025757 seconds .
+  Time since last request: 0.000185 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Water Lily Flower.prefab
+  artifactKey: Guid(6cb9eb6b0730a724eb39c4e25c66dbcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Water Lily Flower.prefab using Guid(6cb9eb6b0730a724eb39c4e25c66dbcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017d16e233cf3280d2722f48b9f0cd65') in 0.051584 seconds 
+  Import took 0.056136 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Mugwort.prefab
+  artifactKey: Guid(a7901be2baf837243a84e046e16ad917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Mugwort.prefab using Guid(a7901be2baf837243a84e046e16ad917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '390b38ff882c670c2991604911236828') in 0.021800 seconds 
+  Import took 0.026486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass C_4.prefab
+  artifactKey: Guid(903a7dc7cd8cf0e48a7559701d7b3010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass C_4.prefab using Guid(903a7dc7cd8cf0e48a7559701d7b3010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a9b65976cb24733ed08a47ab76d17e') in 0.020104 seconds 
+  Import took 0.024630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass B_4.prefab
+  artifactKey: Guid(4b91348de00f4414d9fa2fe2f74834dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_4.prefab using Guid(4b91348de00f4414d9fa2fe2f74834dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef6231650b2945982f205c0259a9444') in 0.016127 seconds 
+  Import took 0.020886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass B_1.prefab
+  artifactKey: Guid(c5f0e826ad790584daed4a4dd48c32f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_1.prefab using Guid(c5f0e826ad790584daed4a4dd48c32f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ba09a630b96ae86b211eaa46263984') in 0.012699 seconds 
+  Import took 0.017480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Vine.prefab
+  artifactKey: Guid(f902539cbb4023143a564cbc666fccb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Vine.prefab using Guid(f902539cbb4023143a564cbc666fccb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b485c9bd76b3c3189756886dc687e3c6') in 0.011604 seconds 
+  Import took 0.016230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Day Aresha Bush_1.prefab
+  artifactKey: Guid(4269869be246b9648b7775b42c2a452d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Day Aresha Bush_1.prefab using Guid(4269869be246b9648b7775b42c2a452d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757be58ab3335c321bb528364dfe023e') in 0.025463 seconds 
+  Import took 0.030142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp Bush Wall.prefab
+  artifactKey: Guid(bee6368b78f678542bfcecbcc7280a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp Bush Wall.prefab using Guid(bee6368b78f678542bfcecbcc7280a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1ecfb0fb1eb974104034e5cd57043d') in 0.245645 seconds 
+  Import took 0.250695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Blood Chute_1.prefab
+  artifactKey: Guid(b28b255cf12c8f0409e033e564cbd037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Blood Chute_1.prefab using Guid(b28b255cf12c8f0409e033e564cbd037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f79d7ca895ff20e5d60d47af5a968b') in 0.019170 seconds 
+  Import took 0.023485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass C_3.prefab
+  artifactKey: Guid(d006b719b68d0bb4cabe5594b1dae84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass C_3.prefab using Guid(d006b719b68d0bb4cabe5594b1dae84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b73e106dc3a2abadc1a9daeff20891') in 0.011552 seconds 
+  Import took 0.016197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Day Aresha Bush_4.prefab
+  artifactKey: Guid(e71bd060c2bc1d34e8ad153388b805f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Day Aresha Bush_4.prefab using Guid(e71bd060c2bc1d34e8ad153388b805f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf22497eb7e23ae83890ded23d7dd601') in 0.020965 seconds 
+  Import took 0.025122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass A_4.prefab
+  artifactKey: Guid(dc76dbee303fee34f9d2462e94885a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass A_4.prefab using Guid(dc76dbee303fee34f9d2462e94885a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc1462b82d2d86a0a6b59ab26b6e424') in 0.012074 seconds 
+  Import took 0.016809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Day Aresha Bush_2.prefab
+  artifactKey: Guid(c63ed6116db58554eabbd4aae86c26e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Day Aresha Bush_2.prefab using Guid(c63ed6116db58554eabbd4aae86c26e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28cb93536f09abd0d8c2a496462ba215') in 0.014128 seconds 
+  Import took 0.018408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Water Lily Leaf.prefab
+  artifactKey: Guid(9b97a53ec541e8d40b0be03edabcb1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Water Lily Leaf.prefab using Guid(9b97a53ec541e8d40b0be03edabcb1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e68769c1555334ffe02db94d9c2be3') in 0.024557 seconds 
+  Import took 0.029243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass A_2.prefab
+  artifactKey: Guid(8f1a6dfb553f31d4fbd80000753c8b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass A_2.prefab using Guid(8f1a6dfb553f31d4fbd80000753c8b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bbb06de0b6503754815ce792b6c4e6') in 0.015420 seconds 
+  Import took 0.020039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Chinese Evergreen.prefab
+  artifactKey: Guid(0881c8d4d4b76ad4b8c4dea9f453189f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Chinese Evergreen.prefab using Guid(0881c8d4d4b76ad4b8c4dea9f453189f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476058b31a57a1fc3e1b660f4b08ee44') in 0.012641 seconds 
+  Import took 0.017514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Neat Leaf.prefab
+  artifactKey: Guid(90daf78708fee99428a8d31bad51fa14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Neat Leaf.prefab using Guid(90daf78708fee99428a8d31bad51fa14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02acb4e2e95a08b98f9aeec5ac2da60') in 0.013691 seconds 
+  Import took 0.018413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Rafflesia.prefab
+  artifactKey: Guid(a574a15d0e27b86449df9ed0bb07788a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Rafflesia.prefab using Guid(a574a15d0e27b86449df9ed0bb07788a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b2d78ed90d46906c528c06a2ce9a10') in 0.046213 seconds 
+  Import took 0.050390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fan Leaf.prefab
+  artifactKey: Guid(eeec0d4ba20dbdb4396b68194c79dffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fan Leaf.prefab using Guid(eeec0d4ba20dbdb4396b68194c79dffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a094a66e670fd27a4abb398c562a29b') in 0.054419 seconds 
+  Import took 0.058718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass C_1.prefab
+  artifactKey: Guid(7271f126b4f78e249aa500fe5c61123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass C_1.prefab using Guid(7271f126b4f78e249aa500fe5c61123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b927860ce390f3715423393e869a031') in 0.013311 seconds 
+  Import took 0.018111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Sanchezia Star.prefab
+  artifactKey: Guid(38902c77a51673b49946f0c92f53595f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Sanchezia Star.prefab using Guid(38902c77a51673b49946f0c92f53595f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1304e810b475af441878b7fb66c93a') in 0.018465 seconds 
+  Import took 0.023246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Blood Chute Cluster.prefab
+  artifactKey: Guid(73955d14216c8444e93fba5305c836ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Blood Chute Cluster.prefab using Guid(73955d14216c8444e93fba5305c836ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833e68069b3fac6ffe595995fd546ebd') in 0.022192 seconds 
+  Import took 0.026521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Blood Chute_4.prefab
+  artifactKey: Guid(7ac6985bafcc1bd4a91dedc9d79e21e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Blood Chute_4.prefab using Guid(7ac6985bafcc1bd4a91dedc9d79e21e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c569e15a779ceb4bbf66aa51764716') in 0.015717 seconds 
+  Import took 0.020289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp_3.prefab
+  artifactKey: Guid(a59382a2dd493084a9622daed74a5229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp_3.prefab using Guid(a59382a2dd493084a9622daed74a5229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51e50ff97c5274793460f5ddacb336e') in 0.018481 seconds 
+  Import took 0.022699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Day Aresha Bush_3.prefab
+  artifactKey: Guid(e47e587843ac16c4ba0611546df3ff64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Day Aresha Bush_3.prefab using Guid(e47e587843ac16c4ba0611546df3ff64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6df64ae6286ccdc6c9603375ce3dd4') in 0.019520 seconds 
+  Import took 0.023799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp Bush_Radial_2.prefab
+  artifactKey: Guid(4b1deebc44f447b449a2ab524f21462f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp Bush_Radial_2.prefab using Guid(4b1deebc44f447b449a2ab524f21462f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7107fa3e9bf86cb954adfff8fcbeda49') in 0.025071 seconds 
+  Import took 0.030647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass A_5.prefab
+  artifactKey: Guid(425d13f61f3ffdf459781dc84043f9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass A_5.prefab using Guid(425d13f61f3ffdf459781dc84043f9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2957001d2b4f7f6a59470c288fa1b484') in 0.011431 seconds 
+  Import took 0.016125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass A_1.prefab
+  artifactKey: Guid(f27489a930b40c44f8843687d69e4e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass A_1.prefab using Guid(f27489a930b40c44f8843687d69e4e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47eb2647a296727d100d0a6939edc0e') in 0.011582 seconds 
+  Import took 0.015809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass B_5.prefab
+  artifactKey: Guid(fc4e75c45249c894cba68ebbf5a7b72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_5.prefab using Guid(fc4e75c45249c894cba68ebbf5a7b72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b268001339b53875b17549f0d3b7c746') in 0.010964 seconds 
+  Import took 0.015197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Dogram Plant.prefab
+  artifactKey: Guid(73599c0a66cd0234a85c595a8f8a1738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Dogram Plant.prefab using Guid(73599c0a66cd0234a85c595a8f8a1738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea61e2db8e885f94358d55c40ba0603') in 0.013652 seconds 
+  Import took 0.018199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Blood Chute_2.prefab
+  artifactKey: Guid(ed91165bb5af6e04a904ec475432c555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Blood Chute_2.prefab using Guid(ed91165bb5af6e04a904ec475432c555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc7c4aee4fa645c108d3a1257084516') in 0.015311 seconds 
+  Import took 0.020652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass B_6.prefab
+  artifactKey: Guid(60e827e2a758f8247a062cb022b583e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_6.prefab using Guid(60e827e2a758f8247a062cb022b583e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da15589a382d28ecb1615e59d9d41f3') in 0.010929 seconds 
+  Import took 0.015578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass C_2.prefab
+  artifactKey: Guid(ca95e14daf8d0b845b7c180011b09fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass C_2.prefab using Guid(ca95e14daf8d0b845b7c180011b09fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cee0c85b18ae5c37773e7839a1f994d') in 0.011854 seconds 
+  Import took 0.016174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass B_7.prefab
+  artifactKey: Guid(e18d73770bcd29c4780e38174692c358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_7.prefab using Guid(e18d73770bcd29c4780e38174692c358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67ddb4005469a632dea8e4d4dfbacde') in 0.012130 seconds 
+  Import took 0.017486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp Bush_Radial.prefab
+  artifactKey: Guid(7e5e9076460bc114caddbbf89e9fec4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp Bush_Radial.prefab using Guid(7e5e9076460bc114caddbbf89e9fec4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00db5e1462b379445c86dc857272720a') in 0.022176 seconds 
+  Import took 0.027799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp_2.prefab
+  artifactKey: Guid(9220d3a6a55faf648b36a6da6e1974fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp_2.prefab using Guid(9220d3a6a55faf648b36a6da6e1974fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f9db1664c07b88423d752e8a7f40db') in 0.015587 seconds 
+  Import took 0.020461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass A_3.prefab
+  artifactKey: Guid(8f5b11df5b8c58f4ca9cf13c7e1b8bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass A_3.prefab using Guid(8f5b11df5b8c58f4ca9cf13c7e1b8bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be8ae2939a25ba5017f9374f4b7da15') in 0.012073 seconds 
+  Import took 0.017436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Grass B_2.prefab
+  artifactKey: Guid(cd080ce2e2d1bdc4180cb6b3611e2a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Grass B_2.prefab using Guid(cd080ce2e2d1bdc4180cb6b3611e2a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b6251ea263c03385bb3333e25f37fd') in 0.011911 seconds 
+  Import took 0.016712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp_1.prefab
+  artifactKey: Guid(d9f7e8124b769f147bc50cf3f42d673a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jonathan Foust/Prefabs/Fish-Hook Kelp_1.prefab using Guid(d9f7e8124b769f147bc50cf3f42d673a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f710abee36e1c2bf7f863fd0bd9ba306') in 0.014691 seconds 
+  Import took 0.019484 seconds .
+
