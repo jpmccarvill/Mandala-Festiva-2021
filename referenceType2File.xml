@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>db6a119440d54f24ba680475e0291c77</guid>
+    <fileName>Assets/Amazing Assets/Terrain To OBJ/Example Scene/Files/Scripts/RunTime_OBJ_Exporter.cs</fileName>
+    <timeStamp>2021-10-20T11:12:24-04:00</timeStamp>
+    <typeFullName>
+      <string>AmazingAssets.TerrainToOBJ.Examples.RunTime_OBJ_Exporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c8e04cdf20bfc84f9dd45ed8e0ebc80</guid>
+    <fileName>Assets/CavePack/Scripts/DisableRendererInRunTime.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.4396121-05:00</timeStamp>
+    <typeFullName>
+      <string>DisableRendererInRunTime</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd76f84723036004fa788efd16050314</guid>
+    <fileName>Assets/CavePack/Scripts/FPSController.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.4406116-05:00</timeStamp>
+    <typeFullName>
+      <string>FPSController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2021-11-25T10:10:17.3563323-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2021-11-25T10:10:17.4109678-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2021-11-25T10:10:17.4431218-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2021-11-25T10:10:17.4741444-05:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2021-11-25T10:10:17.5051435-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2021-11-25T10:10:17.5364566-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69a4fc27499557744827c787d71fdf08</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/BaseEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6426135-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f9fffe306f3969418c31ee836b6ffee</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/EffectListEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6456157-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75be0b76c5da33a41a2e679cfb7f453c</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/PostProcessDebugEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6516113-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a7e5d36c781f1a469ea8f981b785506</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/PostProcessEffectBaseEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.652613-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e81ec1796a6c9844f9ab3847494d7911</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/PostProcessEffectEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.652613-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c89984c2a3e6cd4492c6f695f07bae6</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/PostProcessLayerEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6536122-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1fcb2f1e4a7d9ba42bc5940a5611f302</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/PostProcessProfileEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6546108-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e487364a0cd33f4a9ef2ed93819d4d7</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/PostProcessVolumeEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6546108-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9753335d6f48da542be1c720aa07bbf5</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Attributes/DecoratorAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6416136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>70ea2ab329ffbac43a0a02daa61dbe6b</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Attributes/PostProcessEditorAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6426135-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6b2666165a17bbd4e851c1382898651e</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Decorators/AttributeDecorator.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6436136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d6ae47710b8593e41960a944bb29e6c3</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Decorators/Decorators.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6446111-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26ed99f46b86df8449003e6ec0f65144</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Decorators/TrackballDecorator.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6446111-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67909952e72978b4ea41880509c936ff</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/AmbientOcclusionEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.646613-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3051d2fb25301fa4a81e797109712feb</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/AutoExposureEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6476113-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47feae56b7bdcf4499b96c2aa3c6ce07</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/BloomEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6476113-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f8e5f5614c0d72445b292f4b16ab660b</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/ChromaticAberrationEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6486114-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f79c8927d684af6499f512361e23bace</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/ColorGradingEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6486114-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b0cd5ddb61a56b4f86ea0fd0a102fe7</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/DefaultPostProcessEffectEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6496109-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb4c0b518e013c8418135b3bd8a91b6c</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/DepthOfFieldEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6496109-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7758395f983044344b2c8ea743e956c3</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/LensDistortionEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6506112-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d798d5719bf3b434eafb013385f872eb</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/ScreenSpaceReflectionsEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6506112-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3869d037332a74744a54736f00d62763</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Effects/VignetteEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6516113-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d506bd5da20d0248bfa343c6693d655</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Tools/CubeLutAssetFactory.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6556118-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e4b5d9a1abab984cbe0cbdb31fca939</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Tools/CubeLutAssetImporter.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6556118-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>21c950a797aa518438786fc341790e14</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Tools/DefineSetter.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6566112-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac5668592895c1742a0c6e9d111f870b</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Tools/ProfileFactory.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6566112-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4351734f8a0aaa42a51a99db92e92e2</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Tools/ResourceAssetFactory.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6576109-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f3902e2aa2609f47ab0c956e56ea0bf</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Tools/VolumeFactory.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6576109-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce0f0631fee52da41884853337cab99d</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Utils/CurveEditor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6596139-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09e002b759745fa499d539b9021af38e</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Utils/EditorUtilities.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6596139-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eff4db1c9252e5247b661dec568df962</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Utils/GlobalSettings.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6606134-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75da50dbb3034f142a31c2a182292bc8</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Utils/PostProcessShaderIncludePath.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6616138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f48a0d4b798943a448e8d2e5d891133c</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Utils/SerializedParameterOverride.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6616138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c884467f149574e44b21c869b7fc3401</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Editor/Utils/Styling.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6626155-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc5d8aaf03e613843a0ecaff18e0dfbd</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/ParameterOverride.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6826136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79092fbfc2fc7394aa0754682e3089f7</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessBundle.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6826136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c520d478f3d2445429bd7ac9c92b03a3</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessDebug.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6836134-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>314a03e1d67d9fb4b85926a765017e02</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessDebugLayer.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6846136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5cfe6169b379ff84eb9796502a1a144d</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessEffectRenderer.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6846136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2df5c9d441da8704c8eab449a2f79d85</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessEffectSettings.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.685614-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e4732e1210a3d39459db8b431f866659</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessEvent.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.685614-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>948f4100a11a5c24981795d21301da5c</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessLayer.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6866127-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>18ff20fea2d39cf428e31d3e75b4ae79</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessManager.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6876141-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e6292b2c06870d4495f009f912b9600</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessProfile.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6876141-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7733f6a6fd11474e8fc598901f90fab</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessRenderContext.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6886136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30f4b897495c7ad40b2d47143e02aaba</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessResources.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6886136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b9a305e18de0c04dbd257a21cd47087</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/PostProcessVolume.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6896136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>912e288507f1e724492c7c721fa1deb8</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Attributes/DisplayNameAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.665615-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c72b20f77adb59439f8eed4f25a950a</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Attributes/MaxAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6666161-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63007e9c3f71cad46a59f223a8b32d46</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Attributes/MinAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6666161-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d2cae9d8c54de04fab072666ddd1e57</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Attributes/MinMaxAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6676138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28cff9aae95df994e98129a9b35627de</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Attributes/PostProcessAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6676138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44788f6e7bbf9174181bfe4689e66131</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Attributes/TrackballAttribute.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6686137-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1cb7e9e120078f43bce4f0b1be547a7</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/AmbientOcclusion.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6696139-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b3f6f3f7c722b4544b97e3c75840aa33</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/AutoExposure.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6706138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48a79b01ea5641d4aa6daa2e23605641</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/Bloom.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6706138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6050e2d5de785ce4d931e4dbdbf2d755</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/ChromaticAberration.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6716138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>adb84e30e02715445aeb9959894e3b4d</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/ColorGrading.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6716138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>556797029e73b2347956b6579e77e05b</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/DepthOfField.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6726139-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75066207954ccc44aa9d134af49040de</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/Dithering.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6726139-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efd3e892ff9d0b94c94e039ad5619e5d</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/FastApproximateAntialiasing.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6736138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62e2b920ea5fcaa4982e7fc50bf690a8</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/Fog.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6736138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d65e486e4de6e5448a8fbb43dc8756a0</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/Grain.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6746136-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b77c5407dc277943b591ade9e6b18c5</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/LensDistortion.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6756135-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b94fcd11afffcb142908bfcb1e261fba</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/MotionBlur.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6756135-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f59da4cf1b7dee244bc37fa6add23b00</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/MultiScaleVO.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6766138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c564cc69bd8582a48b2e0a2090d28361</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/ScalableAO.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6766138-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a34fa72bd4185749832024e9c8010bf</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/ScreenSpaceReflections.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.677614-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3b0ecb61e2f1e54ebd4572178bfd8b1</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/SubpixelMorphologicalAntialiasing.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.677614-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a7fc26078c70a6469392d9775f433be</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/TemporalAntialiasing.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6786133-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40b924e2dad56384a8df2a1e111bb675</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Effects/Vignette.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6796133-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cce62646e6d421c41b0aa1c300fcd0fe</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Monitors/HistogramMonitor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6796133-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>322fbe1dae0fe4a4e9645768b3944aae</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Monitors/LightMeterMonitor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6806139-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5d05ae29f423ce241b6cddfe46280b4c</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Monitors/Monitor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6816137-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>279b45d82a92b4d4fa0b30d03486fa68</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Monitors/VectorscopeMonitor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6816137-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d579562c49280d84cb532cd67d19da5d</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Monitors/WaveformMonitor.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6816137-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3c112f1ddeedfe45839158cc4b148d4</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/ColorUtilities.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6906149-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>599b4e72f6c212d40819cfde14826671</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/HableCurve.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6916121-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>616483d5bdbf13c43ae1b005134b8c11</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/HaltonSeq.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6916121-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b23776a3150a74ea5ad6271a3d8f15</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/LogHistogram.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6926145-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b42fa3a7c4baed49bb4f6a56dadc03f</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/MeshUtilities.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6926145-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4da61023839a0604d834e6ffde67ad52</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/PropertySheet.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6936142-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e034505fdac568a45af53ec1cdb0fbb3</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/PropertySheetFactory.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6936142-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a2ed510c13db63f4ea5749ef503a99b5</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/RuntimeUtilities.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6946132-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e4026acd2810a474b9be96bbeb80b959</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/ShaderIDs.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6956156-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c687cf9a3e8607a4b991e6d445a2f9bf</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/Spline.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.696615-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ae5839b763bada47af0cca23c360452</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/TargetPool.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.696615-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f8baf5b99881c054d90afcd1dffd11eb</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/TextureFormatUtilities.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6976137-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f85e8d04208ed5145a521dd27d174830</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/TextureLerper.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6976137-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c387aa7210e2f324b85febd7211d6c9f</guid>
+    <fileName>Assets/Crystals/PostProcessingV2/Runtime/Utils/XRSettings.cs</fileName>
+    <timeStamp>2021-11-21T22:10:34.6986134-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>517ed4fbbb96a784091ca33ae72f0e7b</guid>
+    <fileName>Assets/Editor/ResourceChecker.cs</fileName>
+    <timeStamp>2021-11-18T14:09:35.0756458-05:00</timeStamp>
+    <typeFullName>
+      <string>TextureDetails</string>
+      <string>MaterialDetails</string>
+      <string>MeshDetails</string>
+      <string>MissingGraphic</string>
+      <string>ResourceChecker</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9fd5489ebed282448ffce56090fefd7</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildInfoManager.cs</fileName>
+    <timeStamp>2021-11-15T04:17:27-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49792b455df9c0341a51d3ed9126a9cc</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildInfoMergerWindow.cs</fileName>
+    <timeStamp>2021-11-15T04:17:11-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>173fd4f00e5547f4bb3c260d9cbb16d5</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildProcessor.cs</fileName>
+    <timeStamp>2021-11-15T04:17:06-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e55a84cb0bcf0414085a72914a3a9841</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildReportFileInfo.cs</fileName>
+    <timeStamp>2021-11-15T04:17:29-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12cee7fed09c12246ae59c3f225d3243</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_BuildReportWindow.cs</fileName>
+    <timeStamp>2021-11-15T04:17:06-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>094127970d2184049b1ce37e1eb2896a</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_DependencyGraphManager.cs</fileName>
+    <timeStamp>2021-11-15T04:17:05-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>38e00993adc35ec42a114a8fc65532f0</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_DependencyGraphWindow.cs</fileName>
+    <timeStamp>2021-11-15T04:17:09-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>932600e0df520a746a6b3c38609a0bc4</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_DuplicateDataManager.cs</fileName>
+    <timeStamp>2021-11-15T04:17:21-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32b3afe601d97d643bb716a62b16106c</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_DuplicatesWindow.cs</fileName>
+    <timeStamp>2021-11-15T04:17:09-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>200a2edfc52002c468b33af791f333c0</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_EditorData.cs</fileName>
+    <timeStamp>2021-11-15T04:17:07-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f678a0e10225c0a4faaf391cccd00d2b</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_ElementList.cs</fileName>
+    <timeStamp>2021-11-15T04:17:30-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e666beed7750ac4438892d0bb9ec6257</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_IgnoreList.cs</fileName>
+    <timeStamp>2021-11-15T04:17:29-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a1fe58bf2b20a944bfd906f72b39287</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_IgnoreListEventActionBase.cs</fileName>
+    <timeStamp>2021-11-15T04:17:10-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b539e63be4aca346ad27ff903abb802</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_IIgnoreListActions.cs</fileName>
+    <timeStamp>2021-11-15T04:17:11-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d0994f98ad87954690048c4b3e19047</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_PreProcessor.cs</fileName>
+    <timeStamp>2021-11-15T04:17:22-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7e664ab2ccf1df844bb835e85586b62d</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SceneReferenceWindow.cs</fileName>
+    <timeStamp>2021-11-15T04:17:19-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9499f6dadb6456a45ad8decc1c18deef</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SerializationHelper.cs</fileName>
+    <timeStamp>2021-11-15T04:17:21-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d1ad9523d8b90e4aa519e18c20cc206</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SerializedAssetInfo.cs</fileName>
+    <timeStamp>2021-11-15T04:17:23-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4578e682bc79b847ba0187ca63670a5</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SerializedBuildInfo.cs</fileName>
+    <timeStamp>2021-11-15T04:17:30-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>212dc98f02d51a3469c3d1f4dc517bc0</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SettingsManager.cs</fileName>
+    <timeStamp>2021-11-15T04:17:08-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2611a0e0cb88863459b1f2cfb4b68112</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_SettingsWindow.cs</fileName>
+    <timeStamp>2021-11-15T04:17:08-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>34d0a9acdf4dbcb4f82cfd0156081719</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_TreeViewSelectionInfo.cs</fileName>
+    <timeStamp>2021-11-15T04:17:09-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2dfbd02bf3ebeca47b215bc02773c500</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_UIUtilities.cs</fileName>
+    <timeStamp>2021-11-15T04:17:08-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4cdbc131ece9fb340865ffc0cc57f156</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_Utils.cs</fileName>
+    <timeStamp>2021-11-15T04:17:12-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>137ae79880bd61047a9749429269f90c</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_VersionUpgrader.cs</fileName>
+    <timeStamp>2021-11-15T04:17:06-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c15a7cb4e3c84c141a3abe55fd9c73fe</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_Window.cs</fileName>
+    <timeStamp>2021-11-15T04:17:25-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98f18890366e7f746afc4ba3fdb9b0a4</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/AH_WrapperList.cs</fileName>
+    <timeStamp>2021-11-15T04:17:22-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88440adf44e52134b85213e96b875a00</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/~ObsoleteWindowStyler~.cs</fileName>
+    <timeStamp>2021-11-15T04:17:19-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0c1c6abb88a39844090db7cb9f31b438</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/External/Docker.cs</fileName>
+    <timeStamp>2021-11-15T04:17:05-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a118fee61d7a50043b17a704f0909285</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_BuildInfoTreeView.cs</fileName>
+    <timeStamp>2021-11-15T04:17:23-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efad43b96d78a3940a3d101b069a04ff</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_MultiColumnHeader.cs</fileName>
+    <timeStamp>2021-11-15T04:17:29-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc7d76ef034ec884fac439e301715bd7</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_TreeviewElement.cs</fileName>
+    <timeStamp>2021-11-15T04:17:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e00d20ba7c1f4d446a34ea24d8b82c4e</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/AH_TreeViewWithTreeModel.cs</fileName>
+    <timeStamp>2021-11-15T04:17:27-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69be32fe4d27dde489209c5885c1e5dc</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeElement.cs</fileName>
+    <timeStamp>2021-11-15T04:17:16-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd65e8f324e17a344a97ddcf5a8d89d2</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeElementUtility.cs</fileName>
+    <timeStamp>2021-11-15T04:17:30-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f9fab1cf2636a6439c644bf08108abb</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeModel.cs</fileName>
+    <timeStamp>2021-11-15T04:17:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68fe63fd42552e7418aac450b41b8afb</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDataModel/TreeViewWithTreeModel.cs</fileName>
+    <timeStamp>2021-11-15T04:17:16-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c926e474704fe51438030a9808922819</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDependencyGraph/AH_DepGraphElement.cs</fileName>
+    <timeStamp>2021-11-15T04:17:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b7689f8140a16040a570611162bd75e</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDependencyGraph/AH_DepGraphHeader.cs</fileName>
+    <timeStamp>2021-11-15T04:17:18-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>897092982376e0c4886fc38c96e04090</guid>
+    <fileName>Assets/Heureka/AssetHunterPRO/Editor/Scripts/TreeViewDependencyGraph/AH_DepGraphTreeviewWithModel.cs</fileName>
+    <timeStamp>2021-11-15T04:17:20-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7cbc456ed952974280520c0443d2c9f</guid>
+    <fileName>Assets/Heureka/Global/Editor/Heureka_EditorData.cs</fileName>
+    <timeStamp>2021-11-15T04:17:24-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8cdad70aa85cb144e9299622e104cce6</guid>
+    <fileName>Assets/Heureka/Global/Editor/Heureka_Serializer.cs</fileName>
+    <timeStamp>2021-11-15T04:17:20-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>193aea51eb2e7314387c70be631287b0</guid>
+    <fileName>Assets/Heureka/Global/Editor/Heureka_WindowStyler.cs</fileName>
+    <timeStamp>2021-11-15T04:17:06-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2b56c743d6a700428791f460b02a9c7</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageData.cs</fileName>
+    <timeStamp>2021-11-15T04:17:28-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ad52548211456340bc14f056dd164dd</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataManager.cs</fileName>
+    <timeStamp>2021-11-15T04:17:13-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a00647402484491499b5fb701efabe22</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataManagerEditor.cs</fileName>
+    <timeStamp>2021-11-15T04:17:23-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>312ef3862be95544daf14a84810fef28</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataPromo.cs</fileName>
+    <timeStamp>2021-11-15T04:17:09-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b27603d2be0e81488eb446378c435df</guid>
+    <fileName>Assets/Heureka/Global/Editor/Readme/Heureka_PackageDataVersioned.cs</fileName>
+    <timeStamp>2021-11-15T04:17:18-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03d835f862f58074b859165457db4dde</guid>
+    <fileName>Assets/Laterns and candles/scripts/CameraFacing.cs</fileName>
+    <timeStamp>2021-11-17T20:03:33.8046294-05:00</timeStamp>
+    <typeFullName>
+      <string>CameraFacing</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca793ce0507b19646ab8e031decc012b</guid>
+    <fileName>Assets/Laterns and candles/scripts/ExtendedFlycam.cs</fileName>
+    <timeStamp>2021-11-17T20:03:33.8046294-05:00</timeStamp>
+    <typeFullName>
+      <string>ExtendedFlycam</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85685964e3711a847beb8d2f8cb7fd32</guid>
+    <fileName>Assets/Low Poly Nature Packs/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs</fileName>
+    <timeStamp>2021-11-17T20:03:52.9738731-05:00</timeStamp>
+    <typeFullName>
+      <string>SimpleTextureDrawing</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e925a56984b8e944ea8f2bbab79a4bea</guid>
+    <fileName>Assets/Starpack/Star Pack/Editor/Scripts/ParticleStandardGlowShaderGUI.cs</fileName>
+    <timeStamp>2021-11-21T22:10:35.1516113-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17e634f92575bc4439529aa014470fbc</guid>
+    <fileName>Assets/Starpack/Star Pack/Editor/Scripts/StarPackShaderGUI.cs</fileName>
+    <timeStamp>2021-11-21T22:10:35.1516113-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e608cf5d651394a419e60dcab298dc3e</guid>
+    <fileName>Assets/Starpack/Star Pack/Samples/Star Pack Demo/Scripts/ActivateDepthRendering.cs</fileName>
+    <timeStamp>2021-11-21T22:10:35.188612-05:00</timeStamp>
+    <typeFullName>
+      <string>Andtech.StarPack.ActivateDepthRendering</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5bd2fc08b51201429ffae2353755ed0</guid>
+    <fileName>Assets/Starpack/Star Pack/Samples/Star Pack Demo/Scripts/Spin.cs</fileName>
+    <timeStamp>2021-11-21T22:10:35.188612-05:00</timeStamp>
+    <typeFullName>
+      <string>Andtech.StarPack.Spin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
