@@ -303,3 +303,52 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 998.704334 seconds.
+  path: Assets/Materials/12411.mat
+  artifactKey: Guid(eea6f0569d8d577498a6bdc2deb3c077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/12411.mat using Guid(eea6f0569d8d577498a6bdc2deb3c077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f23e754389ebb0efe3523cb2dc1889d7') in 0.218964 seconds 
+  Import took 0.225231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002036 seconds.
+  path: Assets/Materials/12411.mat
+  artifactKey: Guid(eea6f0569d8d577498a6bdc2deb3c077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/12411.mat using Guid(eea6f0569d8d577498a6bdc2deb3c077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f23e754389ebb0efe3523cb2dc1889d7') in 0.012589 seconds 
+  Import took 0.017229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.720580 seconds.
+  path: Assets/Materials/Stairs.mat
+  artifactKey: Guid(958169d0fe95dc643b163bc70f9068d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stairs.mat using Guid(958169d0fe95dc643b163bc70f9068d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2c5b90eac430cbd684d6937552a335') in 0.017179 seconds 
+  Import took 0.023180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Models/torri.obj
+  artifactKey: Guid(575f108891ad87348bb6570f9b8c8c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/torri.obj using Guid(575f108891ad87348bb6570f9b8c8c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a59a4dd3e26811b72fe285e019aae8b') in 0.089160 seconds 
+  Import took 0.094007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Materials/Transparent.mat
+  artifactKey: Guid(47a53c92ea864a64c9fc175731f0d326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Transparent.mat using Guid(47a53c92ea864a64c9fc175731f0d326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e6d3c0060198ec7654661f45f23c1f') in 0.012616 seconds 
+  Import took 0.017609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Materials/Wood Fence.mat
+  artifactKey: Guid(3b92cfcf94c23574ca0aed7b0bddb75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wood Fence.mat using Guid(3b92cfcf94c23574ca0aed7b0bddb75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba071cd167e26f0a84e0da486d592d4') in 0.012150 seconds 
+  Import took 0.017788 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
